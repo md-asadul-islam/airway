@@ -28,6 +28,7 @@
   background: linear-gradient(135deg, #a4a 0%, #466 60%, #00e10f 100%);
   padding: 80px 0;
   color: white;
+  overflow-x: hidden;
 }
 
 .about-title {
@@ -126,7 +127,6 @@
   flex-direction: column;
   align-items: center;
   width: 100%;
-  overflow-x: hidden;
 }
 
 .carousel-container {
