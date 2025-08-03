@@ -1,0 +1,19 @@
+<style>
+  
+  img {
+    display: block;
+    width: 100%;
+    height: 100px;
+  }
+</style>
+
+
+
+<img src="https://images.pexels.com/photos/3353994/pexels-photo-3353994.jpeg?_gl=1*if3w7a*_ga*NTg1MjY3NzQxLjE3NTMxMTUwODQ.*_ga_8JE65Q40S6*czE3NTMzODc4MzckbzIkZzEkdDE3NTMzODgyNDYkajYwJGwwJGgw" alt="hands-into-water" />
+ 
+<img src="https://images.pexels.com/photos/8948352/pexels-photo-8948352.jpeg?_gl=1*lqbc1s*_ga*NTg1MjY3NzQxLjE3NTMxMTUwODQ.*_ga_8JE65Q40S6*czE3NTMzODc4MzckbzIkZzEkdDE3NTMzODgwODAkajU1JGwwJGgw" alt="hill-path"/>
+
+<img src="https://images.pexels.com/photos/5201435/pexels-photo-5201435.jpeg" alt="hills-grazzing-land"/>
+
+<img src="https://images.pexels.com/photos/906531/pexels-photo-906531.jpeg?_gl=1*11md7do*_ga*NTg1MjY3NzQxLjE3NTMxMTUwODQ.*_ga_8JE65Q40S6*czE3NTMzODc4MzckbzIkZzEkdDE3NTMzODgyNDAkajQkbDAkaDA" alt=""/>
+
